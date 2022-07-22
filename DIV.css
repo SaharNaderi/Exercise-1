@@ -1,0 +1,55 @@
+.a1, .a2, .a3, .a4
+{
+    border: 4px solid;
+}
+
+.VerticalSpace, .HorizontalSpace
+{
+    border: 10px;
+    float: right;
+}
+
+.a2
+{
+    background-color: rgb(175, 142, 142);
+    height: 250px;
+    float: right;
+    width: 74%;
+}
+
+.a3
+{
+    background-color: rgb(175, 142, 142);
+    height: 250px;
+    float: right;
+    width: 74%;
+   
+}
+
+.a4
+{
+    background-color: rgb(175, 142, 142);
+    height: 250px;
+    float: right;
+    width: 74%;
+}
+
+.a1
+{
+    background-color: rgb(175, 142, 142);
+    height: 817px;
+    width: 20%;
+    float: left;
+}
+
+.VerticalSpace
+{
+    width: 10%;
+    height: 25px;
+}
+
+.HorizontalSpace
+{
+    height: 280px;
+    width: 4%;
+}
